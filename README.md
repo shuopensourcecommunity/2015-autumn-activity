@@ -8,3 +8,11 @@ WEEK 2
 
 WEEK 3
 ---
+**周三**
+[LISP学习](https://github.com/shuopensourcecommunity/2015-autumn-activity/wiki/W03-LISP%E5%AD%A6%E4%B9%A0)
+* 学习SICP视频
+* 安装环境和基本操作
+
+
+**周日**
+单元测试技巧学习
