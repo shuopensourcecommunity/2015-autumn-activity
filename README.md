@@ -4,9 +4,9 @@
 WEEK 2
 ---
 **周日**
-[GDG走进上海大学开源社区](https://github.com/shuopensourcecommunity/2015-autumn-activity/wiki/W02-GDG%E8%B5%B0%E8%BF%9B%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%AD%A6%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA)
-* **Shaman**	《学习Google技术，不做井底之蛙》
+[GDG×开源社区春季第一次活动](https://github.com/shuopensourcecommunity/2015-autumn-activity/wiki/W02-GDG%E8%B5%B0%E8%BF%9B%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%AD%A6%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA)
 * **郑旭铭**	2015秋季学期开学活动介绍 
+* **Shaman**	《学习Google技术，不做井底之蛙》
 * **罗一凡**	《React框架的使用经验》
 * **江瑜薇**	《深入浅出Material Design》
 
@@ -18,7 +18,8 @@ WEEK 3
 * 安装环境和基本操作
 
 **周日**
-[单元测试技巧学习](https://github.com/shuopensourcecommunity/2015-autumn-activity/wiki/W03-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
+[GDG×开源社区春季第二次活动](https://github.com/shuopensourcecommunity/2015-autumn-activity/wiki/W03-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)
+* **Shaman** 单元测试技巧学习
 
 WEEK 4
 ---
