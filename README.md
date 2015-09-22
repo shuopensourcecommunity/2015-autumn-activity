@@ -23,7 +23,7 @@ WEEK 3
 WEEK 4
 ---
 **周三**
-LISP学习
+[LISP学习](https://github.com/shuopensourcecommunity/2015-autumn-activity/wiki/W04-LISP%E5%AD%A6%E4%B9%A0)
 * 基本元素是什么？
 * 如何将这些元素组合在一起(means of combination) 
 * 抽象的方法，如何把他们封装成盒子
