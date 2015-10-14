@@ -28,3 +28,13 @@ WEEK 4
 * 基本元素是什么？
 * 如何将这些元素组合在一起(means of combination) 
 * 抽象的方法，如何把他们封装成盒子
+
+WEEK 7
+---
+**周三**
+[LISP学习](https://github.com/shuopensourcecommunity/2015-autumn-activity/wiki/W07-LISP%E5%AD%A6%E4%B9%A0)
+* **郑旭铭** 用高阶函数做抽象
+
+**周日**
+[Android反编译入门](https://github.com/shuopensourcecommunity/2015-autumn-activity/wiki/W07-Android%E5%8F%8D%E7%BC%96%E8%AF%91%E5%85%A5%E9%97%A8)
+
