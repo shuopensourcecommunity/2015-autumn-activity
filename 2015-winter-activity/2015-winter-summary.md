@@ -1,12 +1,6 @@
-### 上海大学开源社区 活动纲要
+### 上海大学开源社区 2015学年冬季学期 活动纲要
 
-> [2015学年秋季学期](./2015-autumn-activity/2015-autumn-summary.md)
-
-> [2015学年冬季学期](./2015-autumn-activity/2015-autumn-summary.md)
-
-#### 本学期（2015冬）活动如下
-
-[WEEK 3](2015-winter-w3.md)
+[WEEK 3](./2015-winter-w3.md)
 ---
 **周三**
 SICP学习
