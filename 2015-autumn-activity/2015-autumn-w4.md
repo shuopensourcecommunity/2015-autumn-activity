@@ -14,4 +14,4 @@
  - 抽象的方法，如何把他们封装成盒子
 
 **活动照片：**
-![2015-Autumn-W4-SICP](./photos/w4-sicp.jpg)
+![2015-Autumn-W4-SICP](./img/w4-sicp.jpg)

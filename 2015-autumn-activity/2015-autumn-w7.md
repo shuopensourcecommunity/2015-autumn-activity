@@ -16,11 +16,11 @@
 
 练习：区间折半法和牛顿法求函数不动点
 
-![2015-Autumn-W7-SICP](./photos/w7-sicp.jpg)
+![2015-Autumn-W7-SICP](./img/w7-sicp.jpg)
 
 周日 Android 反编入门
 ---
-**活动时间：**2015年9月21日19:00-21:00
+**活动时间：**2015年10月18日19:00-21:00
 
 **活动地点：**上海大学宝山校区东区计算机大楼511
 
@@ -29,4 +29,4 @@
 **活动嘉宾：**深藏功与名的骆兆楷学长
 
 **活动照片：**
-![2015-Autumn-W7-Android反编译](./photos/w7-android-decompile.jpg)
+![2015-Autumn-W7-Android反编译](./img/w7-android-decompile.jpg)

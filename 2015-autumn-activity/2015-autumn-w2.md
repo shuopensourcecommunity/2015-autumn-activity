@@ -9,20 +9,19 @@
 
 晚上七点，上海大学开源社区的负责人Simon组织活动开始，首先安排大家对周围的同学进行了解熟悉，通过介绍自己身边的人的方式，了解大家平时喜欢的技术，认识身边的人。
 
-![2015-Autumn-W2](./photos/w2-gdg-1.jpg)
+![2015-Autumn-W2](./img/w2-gdg-1.jpg)
 
 随后由上海GDG的组织者Shaman为大家带来主题为《学习Google技术，不做井底之蛙》的分享。首先与大家一起观看了今年Google IO大会的视频，让大家接触到最新的Google技术。
 
-
-![2015-Autumn-W2](./photos/w2-gdg-2.jpg)
+![2015-Autumn-W2](./img/w2-gdg-2.jpg)
 
 Shaman请同学们分享自己所了解和正在使用的Google技术
 
-![2015-Autumn-W2](./photos/w2-gdg-3.jpg)
+![2015-Autumn-W2](./img/w2-gdg-3.jpg)
 
 Shaman向大家介绍上海GDG的发展与日常开展的活动
 
-![2015-Autumn-W2](./photos/w2-gdg-4.jpg)
+![2015-Autumn-W2](./img/w2-gdg-4.jpg)
 
 之后由上海大学开源社区的罗一凡同学给大家带来《React框架的使用经验》的分享，向大家介绍了react的基本特性和使用场景，告诉大家自己在使用react过程中遇到过的一些坑。
 
