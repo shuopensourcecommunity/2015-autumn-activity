@@ -7,7 +7,7 @@ SICP学习
 * 复习回顾上学期的内容
 * 一个图形语言实例
 
-[WEEK 4](./2015-autumn-w4.md)
+[WEEK 4](./2015-winter-w4.md)
 ---
 **周三**
 SICP学习
